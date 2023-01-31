@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../hello.vscode"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp",
+			"*.tcc": "cpp",
+			"list": "cpp",
+			"vector": "cpp",
+			"algorithm": "cpp"
+		}
+	}
+}
